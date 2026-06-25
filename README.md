@@ -176,9 +176,9 @@ n8n sends WhatsApp reminder (24h before, optional 1h nudge)
 
 | Role | Owner |
 |---|---|
-| Frontend + UI | Member A |
-| Backend + AI | Member B |
-| n8n Automation + Integration | Member C |
+| Frontend + UI | Shivani K P |
+| Backend + AI | Agnes Mariya Sara |
+| n8n Automation + Integration | Diya Susan Binu |
 
 ---
 
